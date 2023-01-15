@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUIymvTbPWEXXFJ08Lx+IsbF8vAV4jPCQ2f9cPAMiu56e8vEw6h2hvtugAorPBKnyOVEhkHb6a6DHDhDcBCVpg==",
+  "success": true,
+  "projectFilePath": "D:\\Projeler\\Kurslar\\Udemy aspnet\\FSE.AdvertisementApp\\FSE.AdvertisementApp.Entities\\FSE.AdvertisementApp.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatih Er\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fatih Er\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

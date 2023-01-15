@@ -1,0 +1,10 @@
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.Common\bin\Debug\netstandard2.0\FSE.AdvertisementApp.Common.deps.json
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.Common\bin\Debug\netstandard2.0\FSE.AdvertisementApp.Common.dll
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.Common\bin\Debug\netstandard2.0\FSE.AdvertisementApp.Common.pdb
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.Common\obj\Debug\netstandard2.0\FSE.AdvertisementApp.Common.csprojAssemblyReference.cache
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.Common\obj\Debug\netstandard2.0\FSE.AdvertisementApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.Common\obj\Debug\netstandard2.0\FSE.AdvertisementApp.Common.AssemblyInfoInputs.cache
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.Common\obj\Debug\netstandard2.0\FSE.AdvertisementApp.Common.AssemblyInfo.cs
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.Common\obj\Debug\netstandard2.0\FSE.AdvertisementApp.Common.csproj.CoreCompileInputs.cache
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.Common\obj\Debug\netstandard2.0\FSE.AdvertisementApp.Common.dll
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.Common\obj\Debug\netstandard2.0\FSE.AdvertisementApp.Common.pdb

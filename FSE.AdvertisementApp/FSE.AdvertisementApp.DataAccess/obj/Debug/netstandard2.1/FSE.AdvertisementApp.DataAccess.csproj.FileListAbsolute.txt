@@ -1,0 +1,15 @@
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\bin\Debug\netstandard2.1\FSE.AdvertisementApp.DataAccess.deps.json
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\bin\Debug\netstandard2.1\FSE.AdvertisementApp.DataAccess.dll
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\bin\Debug\netstandard2.1\FSE.AdvertisementApp.DataAccess.pdb
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\bin\Debug\netstandard2.1\FSE.AdvertisementApp.Common.dll
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\bin\Debug\netstandard2.1\FSE.AdvertisementApp.Entities.dll
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\bin\Debug\netstandard2.1\FSE.AdvertisementApp.Common.pdb
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\bin\Debug\netstandard2.1\FSE.AdvertisementApp.Entities.pdb
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\obj\Debug\netstandard2.1\FSE.AdvertisementApp.DataAccess.csprojAssemblyReference.cache
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\obj\Debug\netstandard2.1\FSE.AdvertisementApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\obj\Debug\netstandard2.1\FSE.AdvertisementApp.DataAccess.AssemblyInfoInputs.cache
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\obj\Debug\netstandard2.1\FSE.AdvertisementApp.DataAccess.AssemblyInfo.cs
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\obj\Debug\netstandard2.1\FSE.AdvertisementApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\obj\Debug\netstandard2.1\FSE.AdvertisementApp.DataAccess.csproj.CopyComplete
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\obj\Debug\netstandard2.1\FSE.AdvertisementApp.DataAccess.dll
+D:\Projeler\Kurslar\Udemy aspnet\FSE.AdvertisementApp\FSE.AdvertisementApp.DataAccess\obj\Debug\netstandard2.1\FSE.AdvertisementApp.DataAccess.pdb

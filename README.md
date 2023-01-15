@@ -2,7 +2,6 @@
  .Net Core Advertisement App
 ![chrome_6Q9RiQVO01](https://user-images.githubusercontent.com/58585164/212545954-af6f256a-83f8-4370-ba38-9aa60fb4181b.png)
 ![chrome_ajmU4xlgaT](https://user-images.githubusercontent.com/58585164/212545967-fe00c76b-6451-48c0-9d0e-2c5b1cbc66af.png)
-![chrome_Seub29pYwD](https://user-images.githubusercontent.com/58585164/212545976-ff4ca2db-1145-4ecc-af65-5093a3622dcc.png)
 ![chrome_Seub29pYwD](https://user-images.githubusercontent.com/58585164/212545987-682e2593-3769-48f6-9a60-23b07f4e7698.png)
 ![chrome_A9QPCoa3hz](https://user-images.githubusercontent.com/58585164/212545991-c878fd3f-9be8-4c1c-a334-cba8d4032a05.png)
 ![chrome_hIxu8Rtf4a](https://user-images.githubusercontent.com/58585164/212546007-d3b061b7-126a-4b07-8023-f9c330372e2f.png)
